@@ -25,9 +25,7 @@ UI/UX: Material Design com Widgets Personalizados
 
 EMAIL E SENHA DE ACESSO DO SUPORTE
 
-E-MAIL HILLEDEV90@GMAIL.COM
-SENHA teste123
-
+mandei por email
 
 3️⃣ Estrutura do Projeto
 O projeto está organizado da seguinte forma:
